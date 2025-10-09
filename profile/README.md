@@ -1,6 +1,6 @@
-# IoT Internship at TTPU
+# IoT at TTPU
 
-In this organization, you will find the repositories of the projects, created during **"IoT Internships"** at Turin Polytechnic University in Tashkent (TTPU).
+In this organization, you will find the repositories of the projects and lab, created during **"IoT Courses and Internships"** conducted at Turin Polytechnic University in Tashkent (TTPU).
 
 The members are encouraged to use this github organization to create, share, and collaborate on the projects here, instead of their own personal github pages.
 

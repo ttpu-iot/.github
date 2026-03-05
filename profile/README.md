@@ -7,7 +7,7 @@ The members are encouraged to use this github organization to create, share, and
 ---------------------------------------------------------------------------------------
 ## 🚀 FEATURED Projects
 
-- [IoT PhD course - Test MQTT](https://github.com/ttpu-iot/IoT_PhD_testMQTT)
+- [IoT PhD course - Test MQTT](https://github.com/ttpu-iot/lab3-AsadDeving)
 
 ---------------------------------------------------------------------------------------
 ## Summary of Repositories
